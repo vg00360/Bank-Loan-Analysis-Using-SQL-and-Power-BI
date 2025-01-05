@@ -40,13 +40,8 @@ This project conducts a comprehensive analysis of bank loan data, leveraging **S
 
 **Loan Status Grid View:** Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
 #### Summary Dashboard
-![Summary Dashboard](/Output/Summary.png)
+![Summary Dashboard](/Output/Summary_Page.png)
 
-#### Overview Dashboard
-![Overview Dashboard](/Output/Overview.png)
-
-#### Details Dashboard
-![Details Dashboard](/Output/Details.png)
 
 
 ### Dashboard 2: Overview
@@ -58,6 +53,10 @@ This project conducts a comprehensive analysis of bank loan data, leveraging **S
 5. **Loan Purpose Breakdown (Bar Chart):** Provide a visual breakdown of loan metrics based on stated purposes of loans.
 6. **Home Ownership Analysis (Tree Map):** View how home ownership impacts loan applications and disbursements hierarchically.
 
+#### Overview Dashboard
+![Overview Dashboard](/Output/Overview_Page.png)
+
+
 ### Dashboard 3: Details
 
 #### Objective:
@@ -67,6 +66,9 @@ The Details Dashboard provides a comprehensive view of key loan-related metrics 
 #### Dataset Used:
 
 The bank loan analysis dataset comprises essential fields such as Loan ID, Address State, Purpose, Grade, Sub Grade, Annual Income, Loan Status, Last Payment Date, Verification Status, Debt-to-Income Ratio, and Interest Rates. These fields provide insights into borrower demographics, employment stability, loan characteristics, risk assessment, and payment behavior.
+#### Details Dashboard
+![Details Dashboard](/Output/Details.png)
+
 
 
 ## Key Insights and Findings
