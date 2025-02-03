@@ -40,7 +40,7 @@ This project conducts a comprehensive analysis of bank loan data, leveraging **S
 
 **Loan Status Grid View:** Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
 #### Summary Dashboard
-![Summary Dashboard](/Output/Summary_Page.png)
+![Summary Dashboard])(/Output/Summary_Page.png)
 
 
 
