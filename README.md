@@ -40,18 +40,17 @@ This project conducts a comprehensive analysis of bank loan data, leveraging **S
 
 **Loan Status Grid View:** Gain a comprehensive overview of lending operations and monitor loan performance categorized by 'Loan Status'. This grid view provides insights into metrics such as Total Loan Applications, Total Funded Amount, Total Amount Received, MTD Funded Amount, MTD Amount Received, Average Interest Rate, and Average DTI.
 #### Summary Dashboard
-![Summary Dashboard])(/Output/Summary_Page.png)
+![Summary Dashboard](/Output/Summary_Page.png)
 
 
 
 ### Dashboard 2: Overview
 
 1. **Monthly Trends by Issue Date (Line Chart):** Identify seasonality and long-term trends in lending activities.
-2. **Regional Analysis by State (Filled Map):** Identify regions with significant lending activity and assess regional disparities.
-3. **Loan Term Analysis (Donut Chart):** Understand the distribution of loans across various term lengths.
-4. **Employee Length Analysis (Bar Chart):** Assess how lending metrics are distributed among borrowers with different employment lengths.
-5. **Loan Purpose Breakdown (Bar Chart):** Provide a visual breakdown of loan metrics based on stated purposes of loans.
-6. **Home Ownership Analysis (Tree Map):** View how home ownership impacts loan applications and disbursements hierarchically.
+2. **Loan Term Analysis (Donut Chart):** Understand the distribution of loans across various term lengths.
+3. **Employee Length Analysis (Bar Chart):** Assess how lending metrics are distributed among borrowers with different employment lengths.
+4. **Loan Purpose Breakdown (Bar Chart):** Provide a visual breakdown of loan metrics based on stated purposes of loans.
+5. **Home Ownership Analysis (Tree Map):** View how home ownership impacts loan applications and disbursements hierarchically.
 
 #### Overview Dashboard
 ![Overview Dashboard](/Output/Overview_Page.png)
